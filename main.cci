@@ -1,0 +1,7 @@
+VERSION:3 SOURCE_TIMESTAMP:50AA8165
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\mega8.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:4 "d -> EEPROM:????"
+NODE:F LEVEL:0 LINE:6 "ext_int1_isr(void)"
+NODE:F LEVEL:0 LINE:15 "timer1_compa_isr(void)"
+NODE:F LEVEL:0 LINE:28 "main(void)"
