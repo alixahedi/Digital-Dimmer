@@ -1,4 +1,4 @@
-# Digital-Dimmer
+# Digital Dimmer
 Digital 220v Dimmer with AVR 
 
 #### Warning: The circuit uses a voltage of 220 volts and there is a risk of electric shock.
